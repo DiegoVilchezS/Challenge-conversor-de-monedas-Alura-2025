@@ -1,4 +1,4 @@
-# 💱 Challenge Conversor de Moneda - Alura & ONE
+# Challenge Conversor de Moneda - Alura & ONE
 
 ¡Bienvenido, mi nombre es Diego Vilchez y soy de Perú! 
 
